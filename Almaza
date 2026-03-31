@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -89,6 +90,12 @@ document.getElementById("status").innerText="حدث خطأ";
 });
 
 }
+
+</script>
+
+</body>
+</html>
+```
 
 </script>
 
